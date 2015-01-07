@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "giftto"
+        }, 
+        "giftto": {
+            "applicationId": "Jc9q4mlAMmu2Y8iYeRK5vbVWmFuSu8uivqJvmQu9", 
+            "masterKey": "GcJsZNOidrKmV5JzXXeb7olnoALLrfW3WXAHqpA4"
+        }
+    }
+}
